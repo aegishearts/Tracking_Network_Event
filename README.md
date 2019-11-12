@@ -38,7 +38,7 @@ Tracking network event and give a guide for next action
             
 [Requirement]
  - Python Version higher than 3.0
- - Netmiko library
+ - Running_Script Repository
  
 [Supported Vendor]
  - Juniper EX/QFX/MX series with JUNOS
